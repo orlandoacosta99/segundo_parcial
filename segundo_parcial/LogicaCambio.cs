@@ -19,6 +19,7 @@ namespace segundo_parcial
             double resultado = double.NaN;
             System.Console.WriteLine("Primer valor de la operación: {0}", num1);
             System.Console.WriteLine("segundo valor de la operación: {0}", num2);
+            return resultado;
         }
     }
 }

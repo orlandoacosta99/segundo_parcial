@@ -1,0 +1,13 @@
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\obj\Debug\netcoreapp3.1\segundo_parcial.csprojAssemblyReference.cache
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\obj\Debug\netcoreapp3.1\segundo_parcial.AssemblyInfoInputs.cache
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\obj\Debug\netcoreapp3.1\segundo_parcial.AssemblyInfo.cs
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\obj\Debug\netcoreapp3.1\segundo_parcial.csproj.CoreCompileInputs.cache
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\bin\Debug\netcoreapp3.1\segundo_parcial.exe
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\bin\Debug\netcoreapp3.1\segundo_parcial.deps.json
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\bin\Debug\netcoreapp3.1\segundo_parcial.runtimeconfig.json
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\bin\Debug\netcoreapp3.1\segundo_parcial.runtimeconfig.dev.json
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\bin\Debug\netcoreapp3.1\segundo_parcial.dll
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\bin\Debug\netcoreapp3.1\segundo_parcial.pdb
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\obj\Debug\netcoreapp3.1\segundo_parcial.dll
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\obj\Debug\netcoreapp3.1\segundo_parcial.pdb
+C:\Users\ocav\source\repos\segundo_parcial\segundo_parcial\obj\Debug\netcoreapp3.1\segundo_parcial.genruntimeconfig.cache
